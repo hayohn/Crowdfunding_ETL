@@ -17,6 +17,7 @@
 - `Resources/`: Directory containing the necessary data files and CSV exports.
 - `SQL/`: Directory containing SQL scripts for creating the database schema.
 - `README.md`: Documentation file providing an overview of the project.
+- `Folders organization`: (ERD: to contain the ERD images for the SQL db schemas), (Section 1: ETL in Jupyter Notebook), (Section 2: SQL), (Sources: csvs files and sources files).
 
 ## Overview
 
